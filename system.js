@@ -1,3 +1,1 @@
-$("img").on("error", function () {
-    $(this).prop("src", "img / broken - image.png");
-});
+<img src="Error.src" onerror="this.style.display='none'" />
