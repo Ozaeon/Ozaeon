@@ -30,4 +30,17 @@ a:hover
     background-color:#4cff00;
     color:blue;
 }
+.gallery {
+    margin: 10px 50px;
+}
+.gallery img{
+width:230px;
+padding: 5px;
+filter: grayscale(100%);
+transition: 1s;
+}
+.gallery img:hover {
+   filter: grayscale(0); 
+   transform: scale(1.1);
+}
 
