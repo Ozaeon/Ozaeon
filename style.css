@@ -1,6 +1,5 @@
 ﻿nav {
-    position: sticky;
-    
+    position: sticky;   
     top: 0;
 }
 #bgimage 
@@ -11,11 +10,6 @@
     background-position: center top;
     background-repeat: no-repeat;
     background-attachment: fixed;
-}
-.docked {
-    position: fixed;
-    top: 0px;
-    right: 0px;
 }
 a {
     color:goldenrod;
