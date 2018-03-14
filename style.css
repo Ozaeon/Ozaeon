@@ -31,25 +31,23 @@ a:hover
     color:blue;
 }
 .container {
-    color:white;
+    text-align: center;
+    display: inline-block;
+    color: white;
     max-width: inherit;
-    margin: auto;
-    overflow: auto;
+    overflow: auto;    
 }
-
 .gallery {
-    
-    margin: 5px;
-    border: 1px solid#CCC;
-    float: left;
+    float: inherit;
+    margin: 20px;
+    margin-bottom: 5px;
+    border: 3px solid#CCC;
     width: 390px;
 }
-
-    .gallery img {
-        width: 100%;
-        height: auto;
+.gallery img {
+    width: 100%;
+    height: auto;
     }
-
 .desc {
     padding: 15px;
     text-align: center;
@@ -58,6 +56,15 @@ body {
 align-content:center;
 }
 footer {
-color:white;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+h1 {
+    opacity: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    opacity: 0;
+    font-family: 'Times New Roman', Times, serif;
 }
 
