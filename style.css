@@ -35,12 +35,13 @@ a:hover
     display: inline-block;
     color: white;
     max-width: inherit;
-    overflow: auto;    
+    overflow: auto;
+    margin: 5%;
+    margin-bottom: 1px;
 }
 .gallery {
     float: inherit;
-    margin: 20px;
-    margin-bottom: 5px;
+    margin: auto;
     border: 3px solid#CCC;
     width: 390px;
 }
