@@ -43,7 +43,7 @@ a:hover
     float: inherit;
     margin: auto;
     border: 3px solid#CCC;
-    width:auto;
+    width:280px;
 }
 .gallery img {
     width: 100%;
