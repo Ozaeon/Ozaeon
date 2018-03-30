@@ -11,10 +11,8 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-#indextext
-{
-    text-align:center;
-align-content:center;
+.indextext {
+    text-align: center;
 }
 a {
     color:goldenrod;
