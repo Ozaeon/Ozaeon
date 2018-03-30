@@ -36,14 +36,14 @@ a:hover
     color: white;
     max-width: inherit;
     overflow: auto;
-    margin: 5%;
-    margin-bottom: 1px;
+    margin: auto;
+    margin-bottom: auto;
 }
 .gallery {
     float: inherit;
     margin: auto;
     border: 3px solid#CCC;
-    width: 280px;
+    width:auto;
 }
 .gallery img {
     width: 100%;
