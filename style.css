@@ -11,8 +11,13 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-.indextext {
+.indexstyle {
+    background: #000000;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
     text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
 }
 a {
     color:goldenrod;
@@ -36,7 +41,7 @@ a:hover
 .maincontainer {
     text-align: center;
 }
-    .container {
+.container {
     text-align: center;
     display: inline-block;
     color: white;
