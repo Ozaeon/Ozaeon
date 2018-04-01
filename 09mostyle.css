@@ -33,7 +33,10 @@ a:hover
     background-color:#4cff00;
     color:blue;
 }
-.container {
+.maincontainer {
+    text-align: center;
+}
+    .container {
     text-align: center;
     display: inline-block;
     color: white;
@@ -60,6 +63,7 @@ body {
 align-content:center;
 }
 footer {
+    text-align:center;
     font-family: 'Times New Roman', Times, serif;
     color: white;
 }
