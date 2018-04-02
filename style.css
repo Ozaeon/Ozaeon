@@ -1,5 +1,6 @@
 ﻿nav {
-    position: sticky;   
+    text-align: center;
+    position: sticky;
     top: 0;
 }
 #bgimage 
@@ -12,12 +13,16 @@
     background-attachment: fixed;
 }
 .indexstyle {
+    text-align: center;
     background: #000000;
     background: rgba(0,0,0,0.5);
     color: #fff;
-    text-align: center;
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+}
+.indexpos {
+    text-align: center;
 }
 a {
     color:goldenrod;
@@ -65,18 +70,25 @@ a:hover
     text-align: center;
 }
 body {
-align-content:center;
+text-align:center;
 }
 footer {
-    text-align:center;
+    text-align: center;
+    background: #000000;
+    background: rgba(0,0,0,0.8);
+    
+    font-size: large;
     font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
     color: white;
 }
 h1 {
+    text-align: center;
     opacity: 0;
     font-family: 'Times New Roman', Times, serif;
 }
 h2 {
+    text-align: center;
     opacity: 0;
     font-family: 'Times New Roman', Times, serif;
 }
