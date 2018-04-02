@@ -3,10 +3,7 @@
     position: sticky;
     top: 0;
 }
-#bgimage 
-{
-    font-family: Arial;
-    color: aliceblue;
+#bgimage {
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
