@@ -1,0 +1,121 @@
+﻿nav {
+	text-align: center;
+    position: sticky;
+    top: 0;
+}
+#bgimage {
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.indexstyle {
+    text-align: center;
+    background: #000000;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+}
+.indexpos {
+    text-align: center;
+}
+a {
+    color:goldenrod;
+    display: inline-block;
+    list-style: none;   
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    opacity: .6;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 1px;
+    margin-bottom:1px;
+}
+a:hover 
+{
+    background-color:#4cff00;
+    color:blue;
+}
+.maincontainer {
+    text-align: center;
+}
+.container {
+    text-align: center;
+    display: inline-block;
+    color: white;
+    max-width: inherit;
+    overflow: auto;
+    margin: auto;
+    margin-bottom: auto;
+}
+.gallery {
+    float: inherit;
+    margin: auto;
+    border: 3px solid#CCC;
+    width: auto;
+}
+.gallery img {
+    width: 100%;
+    height: auto;
+    }
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+body {
+    background-color: #1E1E1E;
+    text-align:center;
+}
+footer {
+    text-align: center;
+    background: #000000;
+    background: rgba(0,0,0,0.8);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    color: white;
+}
+h1 {
+    text-align: center;
+    opacity: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    text-align: center;
+    opacity: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3 {
+    text-align: center;
+    opacity: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+h4 {
+    text-align: center;
+    opacity: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+h5 {
+    text-align: center;
+    opacity: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+h6 {
+    text-align: center;
+    opacity: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+h7 {
+    text-align: center;
+    opacity: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+h8 {
+    text-align: center;
+    opacity: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
